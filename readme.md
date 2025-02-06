@@ -1,6 +1,3 @@
-```
-Closed Source is Antithetical to Bitcoin
-```
 [![](https://dcbadge.vercel.app/api/server/3E8ca2dkcC)](https://discord.gg/3E8ca2dkcC)
 
 # The Nerdaxe
