@@ -32,7 +32,7 @@ Nerdaxe firmware was forked from original ESP-Miner version and adapted to use T
 Check it here -> [ESP-Miner Nerdaxe version](https://github.com/BitMaker-hub/ESP-Miner-NerdAxe)
 
 **Today** Nerdaxe is using the latest evolution of this firmware modified by @pmaxuw (creator of the NerdQaxe) and used for other multiple boards
-Current firmware -> [ESP-Miner Nerdaxe version](https://github.com/BitMaker-hub/ESP-Miner-NerdAxe)
+Current firmware -> [ESP-Miner Nerd\*axe version](https://github.com/shufps/ESP-Miner-NerdQAxePlus)
 
 Flash the latest Nerdaxe firmware here: 
 - Go to flasher online tool: https://flasher.bitronics.store/ (recommend via Google Chrome incognito mode)
